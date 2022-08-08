@@ -1,2 +1,2 @@
-# livraria
-Aplicação que faz venda e controle de estoque de uma livraria
+# Livraria
+Aplicação que realiza venda e controle de estoque de uma livraria
