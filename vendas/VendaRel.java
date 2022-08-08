@@ -23,8 +23,5 @@ public class VendaRel {
 		this.itens = itens;
 	}
 	
-	
-
-	
 
 }
